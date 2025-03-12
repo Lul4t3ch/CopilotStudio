@@ -1,76 +1,76 @@
-# Como Criar um Agente de IA Utilizando o Microsoft Copilot Studio
+# How to Create an AI Agent Using Microsoft Copilot Studio
 
-## 1. Criando um Agente Copilot Baseado em um Modelo
+## 1. Creating a Copilot Agent Based on a Template
 
-**Passo a Passo:**
-1. **Acessar o Microsoft Copilot Studio:**
-   - Abra o Microsoft Copilot Studio e faça login com sua conta Microsoft.
+**Step-by-Step:**
+1. **Access Microsoft Copilot Studio:**
+   - Open Microsoft Copilot Studio and log in with your Microsoft account.
 
-2. **Selecionar 'Criar Novo' e escolher 'Modelo':**
-   - Clique em “Criar Novo” e selecione a opção “Baseado em um Modelo”.
+2. **Select 'Create New' and choose 'Template':**
+   - Click on “Create New” and select the “Based on a Template” option.
 
-3. **Escolher o Modelo:**
-   - Escolha um dos modelos predefinidos que melhor se adequa ao objetivo do seu agente. Os modelos são pré-configurados para diversas funções, como atendimento ao cliente, assistente de vendas, etc.
+3. **Choose the Template:**
+   - Choose one of the predefined templates that best fits the purpose of your agent. Templates are pre-configured for various functions, such as customer service, sales assistant, etc.
 
-4. **Configurar as Funções do Agente:**
-   - Ajuste as configurações do agente conforme necessário, definindo as tarefas e interações que ele deve realizar.
+4. **Configure Agent Functions:**
+   - Adjust the agent settings as needed, defining the tasks and interactions it should perform.
 
-5. **Personalizar o Agente:**
-   - Adicione informações específicas como saudações, respostas padrão e integrações com outros serviços.
+5. **Customize the Agent:**
+   - Add specific information such as greetings, standard responses, and integrations with other services.
 
-6. **Testar e Ajustar:**
-   - Realize testes com seu agente para verificar seu desempenho. Ajuste conforme necessário para melhorar a eficácia.
+6. **Test and Adjust:**
+   - Conduct tests with your agent to check its performance. Adjust as needed to improve effectiveness.
 
-7. **Publicar:**
-   - Uma vez satisfeito com os ajustes, publique seu agente para que ele comece a interagir com os usuários.
+7. **Publish:**
+   - Once satisfied with the adjustments, publish your agent so it can start interacting with users.
 
-## 2. Criando um Agente Copilot Baseado em Descrição com IA
+## 2. Creating a Copilot Agent Based on Description with AI
 
-**Passo a Passo:**
-1. **Acessar o Microsoft Copilot Studio:**
-   - Abra o Microsoft Copilot Studio e faça login com sua conta Microsoft.
+**Step-by-Step:**
+1. **Access Microsoft Copilot Studio:**
+   - Open Microsoft Copilot Studio and log in with your Microsoft account.
 
-2. **Selecionar 'Criar Novo' e escolher 'Descrição com IA':**
-   - Clique em “Criar Novo” e selecione a opção “Descrição com IA”.
+2. **Select 'Create New' and choose 'Description with AI':**
+   - Click on “Create New” and select the “Description with AI” option.
 
-3. **Fornecer uma Descrição:**
-   - Insira uma descrição detalhada do agente que você deseja criar. Isso deve incluir o propósito do agente, o tom de voz, e qualquer informação específica sobre as interações.
+3. **Provide a Description:**
+   - Enter a detailed description of the agent you want to create. This should include the agent's purpose, tone of voice, and any specific information about interactions.
 
-4. **Configuração Automática:**
-   - O Copilot Studio utilizará a IA para configurar automaticamente o agente com base na descrição fornecida.
+4. **Automatic Configuration:**
+   - The Copilot Studio will use AI to automatically set up the agent based on the provided description.
 
-5. **Revisar e Ajustar:**
-   - Revise as configurações automáticas e faça ajustes conforme necessário. Isso inclui personalizações adicionais para adequar o agente exatamente às suas necessidades.
+5. **Review and Adjust:**
+   - Review the automatic settings and make adjustments as needed. This includes additional customizations to tailor the agent exactly to your needs.
 
-6. **Testar e Ajustar:**
-   - Teste o agente para garantir que ele funcione conforme esperado e faça ajustes baseados no feedback dos testes.
+6. **Test and Adjust:**
+   - Test the agent to ensure it works as expected and make adjustments based on test feedback.
 
-7. **Publicar:**
-   - Após os ajustes finais, publique o agente para que ele comece a operar.
+7. **Publish:**
+   - After final adjustments, publish the agent so it can start operating.
 
-## 3. Criando um Agente Copilot em Branco
+## 3. Creating a Copilot Agent from Scratch
 
-**Passo a Passo:**
-1. **Acessar o Microsoft Copilot Studio:**
-   - Abra o Microsoft Copilot Studio e faça login com sua conta Microsoft.
+**Step-by-Step:**
+1. **Access Microsoft Copilot Studio:**
+   - Open Microsoft Copilot Studio and log in with your Microsoft account.
 
-2. **Selecionar 'Criar Novo' e escolher 'Em Branco':**
-   - Clique em “Criar Novo” e selecione a opção “Em Branco”.
+2. **Select 'Create New' and choose 'From Scratch':**
+   - Click on “Create New” and select the “From Scratch” option.
 
-3. **Definir as Funcionalidades Básicas:**
-   - Comece definindo as funcionalidades básicas do seu agente. Isso inclui definir os objetivos e as tarefas que ele deve realizar.
+3. **Define Basic Functions:**
+   - Start by defining the basic functions of your agent. This includes setting the goals and tasks it should perform.
 
-4. **Adicionar Interações:**
-   - Configure as interações do agente manualmente. Isso pode incluir diálogos, perguntas frequentes, respostas padrão e qualquer outra interação necessária.
+4. **Add Interactions:**
+   - Manually configure the agent's interactions. This can include dialogues, frequently asked questions, standard responses, and any other necessary interactions.
 
-5. **Integrar Serviços e APIs:**
-   - Adicione integrações com serviços externos e APIs que seu agente precisará utilizar.
+5. **Integrate Services and APIs:**
+   - Add integrations with external services and APIs that your agent will need to use.
 
-6. **Testar e Ajustar:**
-   - Realize testes completos para verificar a funcionalidade e o desempenho do agente. Faça ajustes conforme necessário para otimizar o funcionamento.
+6. **Test and Adjust:**
+   - Conduct thorough tests to verify the functionality and performance of the agent. Make adjustments as needed to optimize its operation.
 
-7. **Personalizar:**
-   - Adicione personalizações finais, como ajustes no tom de voz, comportamento e características específicas do agente.
+7. **Customize:**
+   - Add final customizations, such as adjustments in tone of voice, behavior, and specific agent characteristics.
 
-8. **Publicar:**
-   - Quando satisfeito com os testes e configurações, publique seu agente para que ele esteja pronto para interagir com os usuários.
+8. **Publish:**
+   - Once satisfied with the tests and configurations, publish your agent so it is ready to interact with users.
